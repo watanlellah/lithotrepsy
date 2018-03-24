@@ -1,0 +1,29 @@
+{
+    "last_remote_check": 1521274160,
+    "hooks": {
+        "bread-templates": {
+            "name": "bread-templates",
+            "description": "Templating BREAD Views",
+            "version": "1.0.13",
+            "enabled": true
+        },
+        "voyager-themes": {
+            "name": "voyager-themes",
+            "description": "This hook will add support for Voyager front-end themes",
+            "version": "0.12",
+            "enabled": true
+        },
+        "jotform-api-hook": {
+            "name": "jotform-api-hook",
+            "description": "This is a hook for voyager that integrates with a Jotform account to view form data.",
+            "version": "0.12",
+            "enabled": true
+        },
+        "voyager-bread-generator": {
+            "name": "voyager-bread-generator",
+            "description": "Create BREAD from the console using artisan",
+            "version": "dev-master",
+            "enabled": true
+        }
+    }
+}
